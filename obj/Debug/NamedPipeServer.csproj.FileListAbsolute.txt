@@ -1,0 +1,6 @@
+c:\users\sergeyv\documents\visual studio 2015\Projects\NamedPipeServer\NamedPipeServer\bin\Debug\NamedPipeServer.exe.config
+c:\users\sergeyv\documents\visual studio 2015\Projects\NamedPipeServer\NamedPipeServer\bin\Debug\NamedPipeServer.exe
+c:\users\sergeyv\documents\visual studio 2015\Projects\NamedPipeServer\NamedPipeServer\bin\Debug\NamedPipeServer.pdb
+c:\users\sergeyv\documents\visual studio 2015\Projects\NamedPipeServer\NamedPipeServer\obj\Debug\NamedPipeServer.csprojResolveAssemblyReference.cache
+c:\users\sergeyv\documents\visual studio 2015\Projects\NamedPipeServer\NamedPipeServer\obj\Debug\NamedPipeServer.exe
+c:\users\sergeyv\documents\visual studio 2015\Projects\NamedPipeServer\NamedPipeServer\obj\Debug\NamedPipeServer.pdb
